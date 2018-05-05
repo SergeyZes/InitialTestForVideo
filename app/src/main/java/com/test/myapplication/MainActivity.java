@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         for (int i=0;i<10; i++){
            //do something cool here...
         }
+        //Кто-то еще зафиксировал мои ошибки
     }
 }
