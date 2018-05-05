@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
            //do something cool here...
         }
         //Кто-то еще зафиксировал мои ошибки
+        //Как все круто
     }
 }
