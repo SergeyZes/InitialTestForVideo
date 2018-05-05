@@ -10,7 +10,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Убрано все нафиг отсюда...
+        //Super code goes here...
+        for (int i=0;i<10; i++){
+            //do something cool here...
+        }
+        //Кто-то еще зафиксировал мои ошибки
+        //Как все круто!
         //Айда бухать
     }
 }
